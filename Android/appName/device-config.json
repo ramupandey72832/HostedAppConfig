@@ -1,0 +1,13 @@
+{
+    "config": {
+        "configVersion": "1.0.2",
+        "lastUpdated": "2026-01-05T10:30:00Z",
+        "webHookUrl": "WebhookUrl"
+    },
+    "devices": {
+        "FullBlockedDevices": [
+            "device-001",
+            "device-002"
+        ]
+    }
+}
