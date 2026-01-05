@@ -4,7 +4,7 @@
   },
   "updateCheck": {
     "configLatestVersion": "1.1.2",
-    "configUrl": "https://yourserver.com/config/device-config.json",
+    "configUrl": "https://raw.githubusercontent.com/ramupandey72832/HostedAppConfig/refs/heads/main/Android/appName/device-config.json",
     "lastUpdated": "2026-01-05T10:30:00Z"
   }
 }
