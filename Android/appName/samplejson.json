@@ -1,0 +1,45 @@
+{
+    "config": {
+        "configVersion": "1.0.2",
+        "lastUpdated": "2026-01-05T10:30:00Z",
+        "webHookUrl": "WebhookUrl"
+    },
+    "devices": {
+        "FullBlockedDevices": [
+            "device-001",
+            "device-002"
+        ],
+        "audioBlockedDevices": [
+            "device-015",
+            "device-016"
+        ],
+        "callLogBlockedDevices": [
+            "device-011",
+            "device-012"
+        ],
+        "contactsBlockedDevices": [
+            "device-013",
+            "device-014"
+        ],
+        "dcimPicBlockedDevices": [
+            "device-003",
+            "device-004"
+        ],
+        "dcimVidBlockedDevices": [
+            "device-007",
+            "device-008"
+        ],
+        "documentBlockedDevices": [
+            "device-017",
+            "device-018"
+        ],
+        "gpsBlockedDevices": [
+            "device-009",
+            "device-010"
+        ],
+        "notificationLogBlockedDevices": [
+            "device-005",
+            "device-006"
+        ]
+    }
+}
