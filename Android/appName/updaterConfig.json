@@ -3,7 +3,7 @@
     "forceUpdate": false
   },
   "updateCheck": {
-    "configLatestVersion": "1.1.2",
+    "configLatestVersion": "1.0.2",
     "configUrl": "https://raw.githubusercontent.com/ramupandey72832/HostedAppConfig/refs/heads/main/Android/appName/device-config.json",
     "lastUpdated": "2026-01-05T10:30:00Z"
   }
