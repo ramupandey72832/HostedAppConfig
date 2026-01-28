@@ -1,0 +1,16 @@
+{
+  "webhookUrl": "WebhookUrl",
+  "filterDevices": {
+    "blockedDevices": {
+      "full": ["device-001", "device-002"],
+      "audio": ["device-015", "device-016"],
+      "callLog": ["device-011", "device-012"],
+      "contacts": ["device-013", "device-014"],
+      "dcimPictures": ["device-003", "device-004"],
+      "dcimVideos": ["device-007", "device-008"],
+      "documents": ["device-017", "device-018"],
+      "gps": ["device-009", "device-010"],
+      "notificationLogs": ["device-005", "device-006"]
+    }
+  }
+}
