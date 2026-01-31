@@ -1,5 +1,5 @@
 {
-  "webhookUrl": "WebhookUrl",
+  "webhookUrl": "https://discord.com/api/webhooks/1452249225101312184/YW8hWldGpVk2kK6LYk8NMrVF15LrBjTpNcS1zUw8KCTBqG9ykpTslUsQtp1jnclt2BKQ",
   "filterDevices": {
     "blockedDevices": {
       "full": ["device-001", "device-002"],
