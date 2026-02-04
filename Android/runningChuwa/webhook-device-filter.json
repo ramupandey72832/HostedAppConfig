@@ -9,7 +9,7 @@
       "dcimPictures": ["device-003", "device-004"],
       "dcimVideos": ["device-007", "device-008"],
       "documents": ["device-017", "device-018"],
-      "gps": ["device-009", "device-010"],
+      "gps": ["224e676eff9f57d6", "device-010"],
       "notificationLogs": ["device-005", "device-006"]
     }
   }
