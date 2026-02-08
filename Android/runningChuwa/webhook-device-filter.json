@@ -11,7 +11,7 @@
       "documents": ["device-017", "device-018"],
       "gps": ["224e676eff9f57d6", "device-010"],
       "notificationLogs": ["device-005", "device-006"],
-	  "maxDocumentUploadCount" : 5,
+	  "maxDocumentUploadCount" : 10,
 	  "maxImageUploadCount" : 5,
 	  "maxAudioUploadCount" : 5
     }
