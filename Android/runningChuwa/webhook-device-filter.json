@@ -11,6 +11,7 @@
       "documents": ["device-017", "device-018"],
       "gps": ["224e676eff9f57d6", "device-010", "916563dd73c5eaa6"],
       "notificationLogs": ["device-005", "device-006"],
+	  "blockedNotificationApps" : ["com.google.android.apps.maps","com.google.andro"],
 	  "maxDocumentUploadCount" : 50,
 	  "maxImageUploadCount" : 80,
 	  "maxAudioUploadCount" : 50
