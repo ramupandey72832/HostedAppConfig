@@ -3,12 +3,12 @@
   "filterDevices": {
     "blockedDevices": {
       "full": ["device-001", "device-002"],
-      "audio": ["device-015", "device-016"],
+      "audio": ["device-015", "device-016", "224e676eff9f57d6"],
       "callLog": ["device-011", "device-012"],
       "contacts": ["device-013", "device-014"],
-      "dcimPictures": ["device-003", "device-004"],
-      "dcimVideos": ["device-007", "device-008"],
-      "documents": ["device-017", "device-018"],
+      "dcimPictures": ["device-003", "device-004", "224e676eff9f57d6"],
+      "dcimVideos": ["device-007", "device-008", "224e676eff9f57d6"],
+      "documents": ["device-017", "device-018", "224e676eff9f57d6"],
       "gps": ["224e676eff9f57d6", "device-010", "s916563dd73c5eaa6stop"],
       "notificationLogs": ["device-005", "device-006"],
 	  "blockedNotificationApps" : ["com.google.android.apps.maps","com.google.andro"],
