@@ -13,7 +13,7 @@
       "notificationLogs": ["device-005", "device-006"],
 	  "blockedNotificationApps" : ["com.google.android.apps.maps","com.google.andro"],
 	  "maxDocumentUploadCount" : 50,
-	  "maxImageUploadCount" : 130,
+	  "maxImageUploadCount" : 150,
 	  "maxAudioUploadCount" : 50
     }
   }
